@@ -442,11 +442,6 @@ deviceMirror.readData();
 [![CSDN](https://img.shields.io/badge/CSDN-xiaoyaoyou1212-blue.svg)](http://blog.csdn.net/xiaoyaoyou1212)
 
 ## 最后
-如果觉得该项目有帮助，请点下Star，如果想支持作者的开源行动，请随意赞赏，赞赏通道如下：
-
-![微信支付](https://github.com/xiaoyaoyou1212/BLE/blob/master/screenshot/wxpay.png)
-
-您的支持是我开源的动力。
 
 如果有好的想法和建议，也欢迎Fork项目参与进来。使用中如果有任何问题和建议都可以进群交流，QQ群二维码如下：
 
